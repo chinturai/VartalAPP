@@ -1,8 +1,5 @@
 # VartalAPP - Realtime Chat Application
 ---
-[Click here to visit the website ](https://vartalapp-xxdi.onrender.com)
---- 
-
 # Features
 # 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 # 🎃 Authentication && Authorization with JWT
